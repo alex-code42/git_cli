@@ -7,5 +7,8 @@ This is the first Cat
 This is the second Cat
 ![Cat Image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Tabby_cat_with_blue_eyes-3336579.jpg/997px-Tabby_cat_with_blue_eyes-3336579.jpg)
 
+This is a dog!!
+![Cat Image](https://commons.wikimedia.org/wiki/File:About_The_Dog.jpg)
+
 
 This is the new readme file
